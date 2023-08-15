@@ -1,0 +1,6 @@
+{{#user}
+Name: Abhishek Yadav
+Skills: HTML, CSS, JS, Next.js
+Email: 21abhishek.ay@gmail.com
+{{/user}}
+
